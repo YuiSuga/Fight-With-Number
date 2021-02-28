@@ -11,3 +11,7 @@
   * (v0.1時点ではゲームパッド非対応・キーボードのみ対応)
 * BackSpaceキーで最後に入力した数字を1文字消去
 * Return / Enterキーで解答を確定
+
+![unity-chan-licenselogo](http://unity-chan.com/images/imageLicenseLogo.png)
+
+この作品は[ユニティちゃんライセンス条項](http://unity-chan.com/contents/license_jp/)の元に提供されています
