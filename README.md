@@ -15,3 +15,5 @@
 ![unity-chan-licenselogo](http://unity-chan.com/images/imageLicenseLogo.png)
 
 この作品は[ユニティちゃんライセンス条項](http://unity-chan.com/contents/license_jp/)の元に提供されています
+
+使用した音素材：[OtoLogic](https://otologic.jp)
